@@ -1,0 +1,51 @@
+Consultas en Lenguaje Natural
+¿Cuál es el contenido con más visualizaciones?
+¿Cuántos contenidos fueron publicados en 2023?
+¿Qué miembros del equipo participaron en la producción del contenido 2?
+¿Cuántos contenidos están en estado de "Publicado"?
+¿Cuál es la sinopsis del contenido 3?
+¿Qué usuarios han accedido al sistema en las últimas 24 horas?
+¿Qué notificaciones han sido enviadas al equipo 1?
+¿Qué modificaciones se hicieron al contenido 1 en el último mes?
+¿Cuál es la tasa de finalización promedio de todos los contenidos?
+¿Qué usuarios tienen el rol de "Productor"?
+¿Cuál es la puntuación promedio del contenido 100?
+¿Cuántos usuarios han tenido accesos fallidos?
+¿Qué contenidos están en idioma "Inglés" y en formato "4K"?
+¿Qué contenidos fueron archivados en el último año?
+¿Cuántas modificaciones se realizaron en la tabla "contenidos"?
+¿Cuáles son los contenidos en "postproducción"?
+¿Qué usuario realizó la última modificación al contenido 2?
+¿Cuántas veces ha sido visualizado el contenido 1?
+¿Cuáles fueron los estados anteriores del contenido 100?
+¿Cuántos usuarios tienen el rol de "Administrador de Contenidos"?
+¿Qué contenidos han cambiado de estado en los últimos tres meses?
+¿Cuántos miembros del equipo han participado en el contenido 100?
+¿Qué contenido tiene la mayor tasa de finalización?
+¿Cuál fue la última notificación enviada al equipo 2?
+¿Cuántas visualizaciones tuvo el contenido 2 en junio de 2023?
+¿Cuántos usuarios han modificado el contenido 1?
+¿Qué contenidos tienen palabras clave relacionadas con "clave1"?
+¿Qué notificaciones han sido enviadas en las últimas 48 horas?
+¿Cuál es el estado de producción actual del contenido 3?
+¿Qué contenidos están en "HD" y en estado de "Publicado"?
+¿Cuántas visualizaciones totales tienen los contenidos en "Ciencia Ficción"?
+¿Qué modificaciones fueron realizadas por el usuario 1?
+¿Cuántos usuarios han accedido con éxito al sistema hoy?
+¿Qué usuario cambió el estado del contenido 100 por última vez?
+¿Qué equipos de producción tienen más de 5 miembros?
+¿Cuántos contenidos tienen formato "HD"?
+¿Cuál es la fecha de publicación del contenido 3?
+¿Qué contenidos están en "Español" y en estado de "Archivado"?
+¿Cuál es la sinopsis del contenido 100?
+¿Qué usuarios hicieron modificaciones en julio de 2023?
+¿Cuántos contenidos tienen más de 100 visualizaciones?
+¿Qué contenidos fueron creados en el año 2022?
+¿Qué equipos han trabajado en más de un contenido?
+¿Cuál es el estado actual del contenido 2?
+¿Cuántos accesos exitosos tuvieron los usuarios el mes pasado?
+¿Qué contenidos fueron publicados entre enero y marzo de 2023?
+¿Qué usuarios han cambiado estados de contenido?
+¿Cuál es el contenido con la puntuación promedio más baja?
+¿Qué notificaciones fueron enviadas al equipo 3 en 2023?
+¿Qué contenidos fueron visualizados más de 1000 veces en junio de 2023?
